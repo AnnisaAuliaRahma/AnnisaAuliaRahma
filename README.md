@@ -4,7 +4,7 @@
     </a>
   </h1>
   
-  <h5 align="center"> Connect with me </h5>
+  <h3 align="center"> Connect with me </h3>
   
   <h5 align="center">
     <code>
